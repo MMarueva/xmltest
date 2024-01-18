@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2021-12-23 15:20">
+  <shop>
+    <name>StrategShop</name>
+    <company>ИП Щербак Александр Викторович</company>
+    <url>https://www.strategshop.ru</url>
+    <phone>8 499 110-42-48</phone>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Тестовая категория</category>
+    </categories>
+    <offers>
+ <offer id="0001" available="true">
+  <url>https://scienceandtech.ru/wp-content/uploads/2020/02/smartfon-budushego-2.jpg</url>
+  <name>Nestle & Кукурузные Хлопья Голд Флекс С МЁДОМ Нестле 300 г</name>
+        <vendor>Nestle</vendor>
+        <outlet id="1" instock="11"/>
+        </outlets>
+        <priceZones>
+            <priceZone id="1" price= "11101"/>
+            <priceZone id="2" price= "11102"/>
+        </priceZones>
+        <vat>NO_VAT</vat>
+      </offer>
+      <offer id="0002" available="true">
+  <url>https://scienceandtech.ru/wp-content/uploads/2020/02/smartfon-budushego-2.jpg</url>
+  <name>Nestle & Кукурузные Хлопья Голд Флекс С МЁДОМ Нестле 300 г</name>
+        <vendor>Nestle</vendor>
+        <outlet id="1" instock="11"/>
+        </outlets>
+        <priceZones>
+            <priceZone id="1" price= "11201"/>
+            <priceZone id="2" price= "11202"/>
+        </priceZones>
+        <vat>6</vat>
+      </offer>
+       <offer id="0003" available="true">
+  <url>https://scienceandtech.ru/wp-content/uploads/2020/02/smartfon-budushego-2.jpg</url>
+  <name>Nestle & Кукурузные Хлопья Голд Флекс С МЁДОМ Нестле 300 г</name>
+        <vendor>Nestle</vendor>
+        <outlet id="1" instock="11"/>
+        </outlets>
+        <priceZones>
+            <priceZone id="1" price= "11301"/>
+            <priceZone id="2" price= "11302"/>
+        </priceZones>
+        <vat>VAT_0</vat>
+         </offer>
+        <offer id="0004" available="true">
+  <url>https://scienceandtech.ru/wp-content/uploads/2020/02/smartfon-budushego-2.jpg</url>
+  <name>Nestle & Кукурузные Хлопья Голд Флекс С МЁДОМ Нестле 300 г</name>
+        <vendor>Nestle</vendor>
+        <outlet id="1" instock="11"/>
+        </outlets>
+        <priceZones>
+            <priceZone id="1" price= "11401"/>
+            <priceZone id="2" price= "11402"/>
+        </priceZones>
+        <vat>5</vat>  
+      </offer>
+      <offer id="0005" available="true">
+  <url>https://scienceandtech.ru/wp-content/uploads/2020/02/smartfon-budushego-2.jpg</url>
+  <name>Nestle & Кукурузные Хлопья Голд Флекс С МЁДОМ Нестле 300 г</name>
+        <vendor>Nestle</vendor>
+        <outlet id="1" instock="11"/>
+        </outlets>
+        <priceZones>
+            <priceZone id="1" price= "11501"/>
+            <priceZone id="2" price= "11502"/>
+        </priceZones>
+        <vat>0</vat>  
+      </offer>
+      <offer id="0006" available="true">
+  <url>https://scienceandtech.ru/wp-content/uploads/2020/02/smartfon-budushego-2.jpg</url>
+  <name>Nestle & Кукурузные Хлопья Голд Флекс С МЁДОМ Нестле 300 г</name>
+        <vendor>Nestle</vendor>
+        <outlet id="1" instock="11"/>
+        </outlets>
+        <priceZones>
+            <priceZone id="1" price= "11601"/>
+            <priceZone id="2" price= "11602"/>
+        </priceZones>
+        <vat>VAT_10</vat>  
+      </offer>
+      <offer id="0007" available="true">
+  <url>https://scienceandtech.ru/wp-content/uploads/2020/02/smartfon-budushego-2.jpg</url>
+  <name>Nestle & Кукурузные Хлопья Голд Флекс С МЁДОМ Нестле 300 г</name>
+        <vendor>Nestle</vendor>
+        <outlet id="1" instock="11"/>
+        </outlets>
+        <priceZones>
+            <priceZone id="1" price= "11701"/>
+            <priceZone id="2" price= "11702"/>
+        </priceZones>
+        <vat>2</vat>  
+      </offer>
+      <offer id="0008" available="true">
+  <url>https://scienceandtech.ru/wp-content/uploads/2020/02/smartfon-budushego-2.jpg</url>
+  <name>Nestle & Кукурузные Хлопья Голд Флекс С МЁДОМ Нестле 300 г</name>
+        <vendor>Nestle</vendor>
+        <outlet id="1" instock="11"/>
+        </outlets>
+        <priceZones>
+            <priceZone id="1" price= "11801"/>
+            <priceZone id="2" price= "11802"/>
+        </priceZones>
+        <vat>10</vat>  
+      </offer>
+      <offer id="0009" available="true">
+  <url>https://scienceandtech.ru/wp-content/uploads/2020/02/smartfon-budushego-2.jpg</url>
+  <name>Nestle & Кукурузные Хлопья Голд Флекс С МЁДОМ Нестле 300 г</name>
+        <vendor>Nestle</vendor>
+        <outlet id="1" instock="11"/>
+        </outlets>
+        <priceZones>
+            <priceZone id="1" price= "11901"/>
+            <priceZone id="2" price= "11902"/>
+        </priceZones>
+        <vat>VAT_20</vat>  
+      </offer>
+      <offer id="0010" available="true">
+  <url>https://scienceandtech.ru/wp-content/uploads/2020/02/smartfon-budushego-2.jpg</url>
+  <name>Nestle & Кукурузные Хлопья Голд Флекс С МЁДОМ Нестле 300 г</name>
+        <vendor>Nestle</vendor>
+        <outlet id="1" instock="11"/>
+        </outlets>
+        <priceZones>
+            <priceZone id="1" price= "21001"/>
+            <priceZone id="2" price= "21002"/>
+        </priceZones>
+        <vat>7</vat>  
+      </offer>
+      <offer id="0011" available="true">
+  <url>https://scienceandtech.ru/wp-content/uploads/2020/02/smartfon-budushego-2.jpg</url>
+  <name>Nestle & Кукурузные Хлопья Голд Флекс С МЁДОМ Нестле 300 г</name>
+        <vendor>Nestle</vendor>
+        <outlet id="1" instock="11"/>
+        </outlets>
+        <priceZones>
+            <priceZone id="1" price= "21101"/>
+            <priceZone id="2" price= "21102"/>
+        </priceZones>
+        <vat>20</vat>  
+      </offer>
+   <offer id="0012" available="true">
+  <url>https://scienceandtech.ru/wp-content/uploads/2020/02/smartfon-budushego-2.jpg</url>
+  <name>Nestle & Кукурузные Хлопья Голд Флекс С МЁДОМ Нестле 300 г</name>
+        <vendor>Nestle</vendor>
+        <outlet id="1" instock="11"/>
+        </outlets>
+        <priceZones>
+            <priceZone id="1" price= "22101"/>
+            <priceZone id="2" price= "22102"/>
+        </priceZones>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
