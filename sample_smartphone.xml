@@ -24,7 +24,7 @@
         <name>Nestle Кукурузные Хлопья Голд Флекс С МЁДОМ Нестле 300 г</name>
         <vendor>Nestle</vendor>
         <outlets>
-          <outlet id="1" instock="100"/>
+          <outlet id="1" instock="0"/>
         </outlets>
       </offer>
       <offer id="0002" available="true">
@@ -38,9 +38,6 @@
         <pickup>true</pickup>
         <name>Nestle Кукурузные Хлопья Голд Флекс С МЁДОМ Нестле 300 г</name>
         <vendor>Nestle</vendor>
-        <outlets>
-          <outlet id="1" instock="100"/>
-        </outlets>
       </offer>
       <offer id="0003" available="true">
         <url>https://scienceandtech.ru/wp-content/uploads/2020/02/smartfon-budushego-2.jpg</url>
