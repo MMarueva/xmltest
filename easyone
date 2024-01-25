@@ -16,6 +16,12 @@
         <shipmentPeriod>5</shipmentPeriod>
         <count>1</count>
       </offer>
+      <offer id="0003" available="true">
+        <price>10003</price>
+        <vat>20</vat>
+        <shipmentPeriod>5</shipmentPeriod>
+        <instock>0</instock>
+      </offer>
     </offers>
   </shop>
 </yml_catalog>
