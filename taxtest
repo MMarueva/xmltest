@@ -12,7 +12,7 @@
       <category id="1">Тестовая категория</category>
     </categories>
     <offers>
- <offer id="0001" available="true">
+ <offer id="10021" available="true">
   <url>https://scienceandtech.ru/wp-content/uploads/2020/02/smartfon-budushego-2.jpg</url>
   <name>Nestle Кукурузные Хлопья Голд Флекс С МЁДОМ Нестле 300 г</name>
         <vendor>Nestle</vendor>
@@ -24,7 +24,7 @@
         </priceZones>
         <vat>NO_VAT</vat>
       </offer>
-      <offer id="0002" available="true">
+      <offer id="10022" available="true">
   <url>https://scienceandtech.ru/wp-content/uploads/2020/02/smartfon-budushego-2.jpg</url>
   <name>Nestle Кукурузные Хлопья Голд Флекс С МЁДОМ Нестле 300 г</name>
         <vendor>Nestle</vendor>
@@ -36,7 +36,7 @@
         </priceZones>
         <vat>6</vat>
       </offer>
-       <offer id="0003" available="true">
+       <offer id="10023" available="true">
   <url>https://scienceandtech.ru/wp-content/uploads/2020/02/smartfon-budushego-2.jpg</url>
   <name>Nestle Кукурузные Хлопья Голд Флекс С МЁДОМ Нестле 300 г</name>
         <vendor>Nestle</vendor>
@@ -48,7 +48,7 @@
         </priceZones>
         <vat>VAT_0</vat>
          </offer>
-        <offer id="0004" available="true">
+        <offer id="10024" available="true">
   <url>https://scienceandtech.ru/wp-content/uploads/2020/02/smartfon-budushego-2.jpg</url>
   <name>Nestle Кукурузные Хлопья Голд Флекс С МЁДОМ Нестле 300 г</name>
         <vendor>Nestle</vendor>
@@ -60,7 +60,7 @@
         </priceZones>
         <vat>5</vat>  
       </offer>
-      <offer id="0005" available="true">
+      <offer id="10025" available="true">
   <url>https://scienceandtech.ru/wp-content/uploads/2020/02/smartfon-budushego-2.jpg</url>
   <name>Nestle Кукурузные Хлопья Голд Флекс С МЁДОМ Нестле 300 г</name>
         <vendor>Nestle</vendor>
@@ -72,7 +72,7 @@
         </priceZones>
         <vat>0</vat>  
       </offer>
-      <offer id="0006" available="true">
+      <offer id="10026" available="true">
   <url>https://scienceandtech.ru/wp-content/uploads/2020/02/smartfon-budushego-2.jpg</url>
   <name>Nestle Кукурузные Хлопья Голд Флекс С МЁДОМ Нестле 300 г</name>
         <vendor>Nestle</vendor>
@@ -84,7 +84,7 @@
         </priceZones>
         <vat>VAT_10</vat>  
       </offer>
-      <offer id="0007" available="true">
+      <offer id="10027" available="true">
   <url>https://scienceandtech.ru/wp-content/uploads/2020/02/smartfon-budushego-2.jpg</url>
   <name>Nestle Кукурузные Хлопья Голд Флекс С МЁДОМ Нестле 300 г</name>
         <vendor>Nestle</vendor>
@@ -96,7 +96,7 @@
         </priceZones>
         <vat>2</vat>  
       </offer>
-      <offer id="0008" available="true">
+      <offer id="10028" available="true">
   <url>https://scienceandtech.ru/wp-content/uploads/2020/02/smartfon-budushego-2.jpg</url>
   <name>Nestle Кукурузные Хлопья Голд Флекс С МЁДОМ Нестле 300 г</name>
         <vendor>Nestle</vendor>
@@ -108,7 +108,7 @@
         </priceZones>
         <vat>10</vat>  
       </offer>
-      <offer id="0009" available="true">
+      <offer id="10029" available="true">
   <url>https://scienceandtech.ru/wp-content/uploads/2020/02/smartfon-budushego-2.jpg</url>
   <name>Nestle Кукурузные Хлопья Голд Флекс С МЁДОМ Нестле 300 г</name>
         <vendor>Nestle</vendor>
@@ -120,7 +120,7 @@
         </priceZones>
         <vat>VAT_20</vat>  
       </offer>
-      <offer id="0010" available="true">
+      <offer id="10030" available="true">
   <url>https://scienceandtech.ru/wp-content/uploads/2020/02/smartfon-budushego-2.jpg</url>
   <name>Nestle Кукурузные Хлопья Голд Флекс С МЁДОМ Нестле 300 г</name>
         <vendor>Nestle</vendor>
@@ -132,7 +132,7 @@
         </priceZones>
         <vat>7</vat>  
       </offer>
-      <offer id="0011" available="true">
+      <offer id="10031" available="true">
   <url>https://scienceandtech.ru/wp-content/uploads/2020/02/smartfon-budushego-2.jpg</url>
   <name>Nestle Кукурузные Хлопья Голд Флекс С МЁДОМ Нестле 300 г</name>
         <vendor>Nestle</vendor>
@@ -144,7 +144,7 @@
         </priceZones>
         <vat>20</vat>  
       </offer>
-   <offer id="0012" available="true">
+   <offer id="10032" available="true">
   <url>https://scienceandtech.ru/wp-content/uploads/2020/02/smartfon-budushego-2.jpg</url>
   <name>Nestle Кукурузные Хлопья Голд Флекс С МЁДОМ Нестле 300 г</name>
         <vendor>Nestle</vendor>
