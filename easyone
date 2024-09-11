@@ -20,7 +20,7 @@
         <price>10003</price>
         <vat>20</vat>
         <shipmentPeriod>5</shipmentPeriod>
-        <instock>0</instock>
+        <instock>1</instock>
       </offer>
     </offers>
   </shop>
